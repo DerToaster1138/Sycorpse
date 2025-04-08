@@ -3,9 +3,10 @@ Minecraft Server Github für Sycor-internen Autismus/Kreativität
 
 Geplant als eine frei verfügbare Onlinewelt zum Bauen, Graben, Farmen und generell entspannen, wird dieser Server 24/7 zur Verfügung stehen (mit ausnahme von **einem** Daily-Restart).
 
+## Server Konfiguration
 Der Server wird auf Minecraft™ - Bedrock Edition aufgesetzt, um Crossplay zwischen PC, Xbox, Playstation und Nintendo Switch zu erlauben, daher **wird die Mod integration sehr begrenzt bis nicht möglich sein**
 
-Mögliche Serverconfigurationen sind:
+Mögliche Serverkonfigurationen sind:
 Ram | Spieleranzahl | Modmöglichkeiten
 --- | --- | ---
 2GB | 2-5 | max 10
