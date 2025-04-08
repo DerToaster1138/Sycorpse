@@ -13,16 +13,17 @@ Ram | Spieleranzahl | Modmöglichkeiten
 6GB | 10 - 15 | mehr als genug
 
 aktuell ist die 4GB Variante aktiv
-### Whitelist
+## Whitelist
 der Server wird durch eine Whitelist geschützt, nur Mods und Admins können personen dieser hinzufügen, aber auch entfernen falls nötig.
 
-### FAQ und Bugs
+## FAQ und Bugs
 gibts ned, gerne issues und themen aber hier erstellen falls gewünscht oder Bugs gefunden wurden
-### Server Backups
+
+## Server Backups
 Der Server wird in Zuge des Daily Restarts einmal gesichert und kann auf den stand des vortages zurückgesetzt werden.
 Eine weitere Möglichkeit besteht darin **HIER** noch backups hochzuladen, aber bleibt azuschätzen OB es sich lohnt
 
 **Server Restart täglich um 1:00**
 
-### Mod Integration
+## Mod Integration
 **Durch Minecraft Bedrock nicht möglich, wenn/falls wir auf Vanilla umsteigen wäre es möglich**
